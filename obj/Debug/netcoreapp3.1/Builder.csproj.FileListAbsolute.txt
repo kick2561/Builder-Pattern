@@ -1,0 +1,11 @@
+C:\Users\CB185249\source\repos\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.exe
+C:\Users\CB185249\source\repos\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.deps.json
+C:\Users\CB185249\source\repos\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.json
+C:\Users\CB185249\source\repos\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.dev.json
+C:\Users\CB185249\source\repos\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.dll
+C:\Users\CB185249\source\repos\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.pdb
+C:\Users\CB185249\source\repos\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.csprojAssemblyReference.cache
+C:\Users\CB185249\source\repos\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfoInputs.cache
+C:\Users\CB185249\source\repos\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfo.cs
+C:\Users\CB185249\source\repos\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.dll
+C:\Users\CB185249\source\repos\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.pdb
